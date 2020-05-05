@@ -231,17 +231,3 @@ plt.show()
 ![png](output_6_0.png)
 
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```

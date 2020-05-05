@@ -1,3 +1,7 @@
+# Digit Classifier
+
+Model that classifies the 0-9 numeric digits from 28x28 images (from MNIST).
+
 ```python
 import tensorflow as tf
 
